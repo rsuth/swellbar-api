@@ -1,0 +1,722 @@
+[
+  {
+    "id": "41001",
+    "name": "EAST HATTERAS - 150 NM East of Cape Hatteras",
+    "lat": 34.703,
+    "lon": -72.242
+  },
+  {
+    "id": "41002",
+    "name": "SOUTH HATTERAS - 225 NM South of Cape Hatteras",
+    "lat": 31.759,
+    "lon": -74.936
+  },
+  {
+    "id": "41004",
+    "name": "EDISTO - 41 NM Southeast of Charleston, SC",
+    "lat": 32.502,
+    "lon": -79.099
+  },
+  {
+    "id": "41008",
+    "name": "GRAYS REEF - 40 NM Southeast of Savannah, GA",
+    "lat": 31.4,
+    "lon": -80.866
+  },
+  {
+    "id": "41009",
+    "name": "CANAVERAL 20 NM East of Cape Canaveral, FL",
+    "lat": 28.508,
+    "lon": -80.185
+  },
+  {
+    "id": "41013",
+    "name": "Frying Pan Shoals, NC",
+    "lat": 33.441,
+    "lon": -77.764
+  },
+  {
+    "id": "41025",
+    "name": "Diamond Shoals, NC",
+    "lat": 35.01,
+    "lon": -75.454
+  },
+  {
+    "id": "41040",
+    "name": "NORTH EQUATORIAL ONE- 470 NM East of Martinique",
+    "lat": 14.536,
+    "lon": -53.136
+  },
+  {
+    "id": "41043",
+    "name": "NE PUERTO RICO - 170 NM NNE of San Juan, PR",
+    "lat": 21.026,
+    "lon": -64.793
+  },
+  {
+    "id": "41044",
+    "name": "NE ST MARTIN - 330 NM NE St Martin Is",
+    "lat": 21.582,
+    "lon": -58.63
+  },
+  {
+    "id": "41046",
+    "name": "EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas ",
+    "lat": 23.822,
+    "lon": -68.393
+  },
+  {
+    "id": "41047",
+    "name": "NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",
+    "lat": 27.465,
+    "lon": -71.452
+  },
+  {
+    "id": "41049",
+    "name": "SOUTH BERMUDA - 300 NM SSE of Bermuda",
+    "lat": 27.505,
+    "lon": -62.271
+  },
+  {
+    "id": "41108",
+    "name": "Wilmington Harbor, NC - (200)",
+    "lat": 33.721,
+    "lon": -78.016
+  },
+  {
+    "id": "41112",
+    "name": "Offshore Fernandina Beach, FL (132)",
+    "lat": 30.709,
+    "lon": -81.292
+  },
+  {
+    "id": "41113",
+    "name": "Cape Canaveral Nearshore, FL (143)",
+    "lat": 28.4,
+    "lon": -80.533
+  },
+  {
+    "id": "41114",
+    "name": "Fort Pierce, FL (134)",
+    "lat": 27.552,
+    "lon": -80.216
+  },
+  {
+    "id": "41117",
+    "name": "St. Augustine, FL (194)",
+    "lat": 29.999,
+    "lon": -81.079
+  },
+  {
+    "id": "41120",
+    "name": "Cape Hatteras East, NC (250)",
+    "lat": 35.258,
+    "lon": -75.285
+  },
+  {
+    "id": "41122",
+    "name": "Hollywood Beach, FL (265)",
+    "lat": 26.001,
+    "lon": -80.096
+  },
+  {
+    "id": "42001",
+    "name": "MID GULF - 180 nm South of Southwest Pass, LA",
+    "lat": 25.926,
+    "lon": -89.662
+  },
+  {
+    "id": "42002",
+    "name": "WEST GULF - 207 NM East of Brownsville, TX",
+    "lat": 26.055,
+    "lon": -93.646
+  },
+  {
+    "id": "42012",
+    "name": "ORANGE BEACH - 44 NM SE of Mobile, AL",
+    "lat": 30.06,
+    "lon": -87.548
+  },
+  {
+    "id": "42019",
+    "name": "FREEPORT, TX - 60 NM South of Freeport, TX",
+    "lat": 27.908,
+    "lon": -95.343
+  },
+  {
+    "id": "42036",
+    "name": "WEST TAMPA  - 112 NM WNW of Tampa, FL",
+    "lat": 28.501,
+    "lon": -84.508
+  },
+  {
+    "id": "42040",
+    "name": "LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL",
+    "lat": 29.207,
+    "lon": -88.237
+  },
+  {
+    "id": "42055",
+    "name": "BAY OF CAMPECHE - 214 NM NE of Veracruz, MX",
+    "lat": 22.14,
+    "lon": -94.112
+  },
+  {
+    "id": "42056",
+    "name": "Yucatan Basin - 120 NM ESE of Cozumel, MX",
+    "lat": 19.82,
+    "lon": -84.945
+  },
+  {
+    "id": "42057",
+    "name": "Western Caribbean - 195 NM WSW of Negril, Jamaica",
+    "lat": 16.973,
+    "lon": -81.575
+  },
+  {
+    "id": "42058",
+    "name": "Central Caribbean - 210 NM SSE of Kingston, Jamaica",
+    "lat": 14.525,
+    "lon": -75.14
+  },
+  {
+    "id": "42059",
+    "name": "Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",
+    "lat": 15.3,
+    "lon": -67.483
+  },
+  {
+    "id": "42060",
+    "name": "Caribbean Valley - 63 NM WSW of Montserrat",
+    "lat": 16.434,
+    "lon": -63.329
+  },
+  {
+    "id": "42084",
+    "name": "Southwest Pass Entrance W, LA (256)",
+    "lat": 28.988,
+    "lon": -89.649
+  },
+  {
+    "id": "42091",
+    "name": "Trinity Shoal, LA (255)",
+    "lat": 29.087,
+    "lon": -92.506
+  },
+  {
+    "id": "42095",
+    "name": "Satan Shoal, FL (244)",
+    "lat": 24.409,
+    "lon": -81.968
+  },
+  {
+    "id": "42097",
+    "name": "Pulley Ridge, FL (226)",
+    "lat": 25.714,
+    "lon": -83.65
+  },
+  {
+    "id": "42099",
+    "name": "Offshore St. Petersburg, FL (144)",
+    "lat": 27.349,
+    "lon": -84.275
+  },
+  {
+    "id": "44007",
+    "name": "PORTLAND - 12 NM Southeast of Portland,ME",
+    "lat": 43.525,
+    "lon": -70.14
+  },
+  {
+    "id": "44008",
+    "name": "NANTUCKET 54 NM Southeast of Nantucket",
+    "lat": 40.496,
+    "lon": -69.25
+  },
+  {
+    "id": "44009",
+    "name": "DELAWARE BAY 26 NM Southeast of Cape May, NJ",
+    "lat": 38.46,
+    "lon": -74.692
+  },
+  {
+    "id": "44013",
+    "name": "BOSTON 16 NM East of Boston, MA",
+    "lat": 42.346,
+    "lon": -70.651
+  },
+  {
+    "id": "44014",
+    "name": "VIRGINIA BEACH 64 NM East of Virginia Beach, VA",
+    "lat": 36.603,
+    "lon": -74.837
+  },
+  {
+    "id": "44018",
+    "name": "CAPE COD - 9 NM North of Provincetown, MA",
+    "lat": 42.203,
+    "lon": -70.154
+  },
+  {
+    "id": "44020",
+    "name": "NANTUCKET SOUND",
+    "lat": 41.497,
+    "lon": -70.283
+  },
+  {
+    "id": "44025",
+    "name": "LONG ISLAND - 30 NM South of Islip, NY",
+    "lat": 40.258,
+    "lon": -73.175
+  },
+  {
+    "id": "44027",
+    "name": "Jonesport, ME - 20 NM SE of Jonesport, ME",
+    "lat": 44.284,
+    "lon": -67.301
+  },
+  {
+    "id": "44056",
+    "name": "Duck FRF, NC",
+    "lat": 36.2,
+    "lon": -75.714
+  },
+  {
+    "id": "44065",
+    "name": "New York Harbor Entrance - 15 NM SE of Breezy Point , NY",
+    "lat": 40.368,
+    "lon": -73.701
+  },
+  {
+    "id": "44084",
+    "name": "Bethany Beach, DE (263)",
+    "lat": 38.537,
+    "lon": -75.044
+  },
+  {
+    "id": "44086",
+    "name": "Nags Head, NC (243)",
+    "lat": 36.001,
+    "lon": -75.421
+  },
+  {
+    "id": "44087",
+    "name": "Thimble Shoal, VA (240)",
+    "lat": 37.026,
+    "lon": -76.149
+  },
+  {
+    "id": "44088",
+    "name": "Virginia Beach Offshore, VA (171)",
+    "lat": 36.614,
+    "lon": -74.841
+  },
+  {
+    "id": "44089",
+    "name": "Wallops Island, VA (224)",
+    "lat": 37.754,
+    "lon": -75.325
+  },
+  {
+    "id": "44091",
+    "name": "Barnegat, NJ (209)",
+    "lat": 39.768,
+    "lon": -73.77
+  },
+  {
+    "id": "44095",
+    "name": "Oregon Inlet, NC (192)",
+    "lat": 35.75,
+    "lon": -75.33
+  },
+  {
+    "id": "44097",
+    "name": "Block Island, RI  (154)",
+    "lat": 40.967,
+    "lon": -71.124
+  },
+  {
+    "id": "44099",
+    "name": "Cape Henry, VA (147)",
+    "lat": 36.915,
+    "lon": -75.722
+  },
+  {
+    "id": "44100",
+    "name": "Duck FRF 26m, NC (430)",
+    "lat": 36.258,
+    "lon": -75.593
+  },
+  {
+    "id": "45004",
+    "name": "EAST SUPERIOR -70 NM NE Marquette, MI",
+    "lat": 47.585,
+    "lon": -86.585
+  },
+  {
+    "id": "45008",
+    "name": "SOUTH HURON - 43NM East of Oscoda, MI",
+    "lat": 44.283,
+    "lon": -82.416
+  },
+  {
+    "id": "45186",
+    "name": "Waukegan Buoy, IL",
+    "lat": 42.368,
+    "lon": -87.795
+  },
+  {
+    "id": "45187",
+    "name": "Winthrop Harbor Buoy, IL",
+    "lat": 42.491,
+    "lon": -87.779
+  },
+  {
+    "id": "45215",
+    "name": "Oswego, NY (274)",
+    "lat": 43.501,
+    "lon": -76.539
+  },
+  {
+    "id": "46001",
+    "name": "WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK",
+    "lat": 56.296,
+    "lon": -148.027
+  },
+  {
+    "id": "46005",
+    "name": "WEST WASHINGTON - 300NM West of Aberdeen, WA",
+    "lat": 46.143,
+    "lon": -131.09
+  },
+  {
+    "id": "46006",
+    "name": "SOUTHEAST PAPA - 600NM West of Eureka, CA",
+    "lat": 40.764,
+    "lon": -137.377
+  },
+  {
+    "id": "46011",
+    "name": "SANTA MARIA - 21NM NW of Point Arguello, CA",
+    "lat": 34.937,
+    "lon": -120.999
+  },
+  {
+    "id": "46026",
+    "name": "SAN FRANCISCO - 18NM West of San Francisco, CA",
+    "lat": 37.754,
+    "lon": -122.839
+  },
+  {
+    "id": "46027",
+    "name": "ST GEORGES - 8 NM NW of Crescent City, CA",
+    "lat": 41.84,
+    "lon": -124.382
+  },
+  {
+    "id": "46028",
+    "name": "CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",
+    "lat": 35.77,
+    "lon": -121.903
+  },
+  {
+    "id": "46060",
+    "name": "WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK",
+    "lat": 60.571,
+    "lon": -146.795
+  },
+  {
+    "id": "46066",
+    "name": "SOUTH KODIAK - 310NM SSW of Kodiak, AK",
+    "lat": 52.765,
+    "lon": -155.009
+  },
+  {
+    "id": "46070",
+    "name": "SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",
+    "lat": 55.05,
+    "lon": 175.261
+  },
+  {
+    "id": "46072",
+    "name": "CENTRAL ALEUTIANS 230 NM SW Dutch Harbor",
+    "lat": 51.666,
+    "lon": -172.114
+  },
+  {
+    "id": "46075",
+    "name": "SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",
+    "lat": 53.969,
+    "lon": -160.794
+  },
+  {
+    "id": "46077",
+    "name": "SHELIKOF STRAIT, AK",
+    "lat": 57.869,
+    "lon": -154.211
+  },
+  {
+    "id": "46078",
+    "name": "ALBATROSS BANK - 104NM South of Kodiak Is., AK",
+    "lat": 55.561,
+    "lon": -152.599
+  },
+  {
+    "id": "46081",
+    "name": "Western Prince William Sound",
+    "lat": 60.802,
+    "lon": -148.283
+  },
+  {
+    "id": "46082",
+    "name": "Cape Suckling - 35 NM SE of Kayak Is, AK",
+    "lat": 59.67,
+    "lon": -143.353
+  },
+  {
+    "id": "46083",
+    "name": "FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",
+    "lat": 58.27,
+    "lon": -138.019
+  },
+  {
+    "id": "46084",
+    "name": "CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",
+    "lat": 56.614,
+    "lon": -136.04
+  },
+  {
+    "id": "46108",
+    "name": "Lower Cook Inlet (204)",
+    "lat": 59.598,
+    "lon": -151.828
+  },
+  {
+    "id": "46211",
+    "name": "Grays Harbor, WA (036)",
+    "lat": 46.857,
+    "lon": -124.244
+  },
+  {
+    "id": "46213",
+    "name": "Cape Mendocino, CA (094)",
+    "lat": 40.295,
+    "lon": -124.732
+  },
+  {
+    "id": "46214",
+    "name": "Point Reyes, CA (029)",
+    "lat": 37.937,
+    "lon": -123.463
+  },
+  {
+    "id": "46215",
+    "name": "Diablo Canyon, CA (076)",
+    "lat": 35.204,
+    "lon": -120.859
+  },
+  {
+    "id": "46218",
+    "name": "Harvest, CA (071)",
+    "lat": 34.452,
+    "lon": -120.78
+  },
+  {
+    "id": "46219",
+    "name": "San Nicolas Island, CA (067)",
+    "lat": 33.226,
+    "lon": -119.891
+  },
+  {
+    "id": "46221",
+    "name": "Santa Monica Bay, CA (028)",
+    "lat": 33.86,
+    "lon": -118.641
+  },
+  {
+    "id": "46222",
+    "name": "San Pedro, CA (092)",
+    "lat": 33.618,
+    "lon": -118.317
+  },
+  {
+    "id": "46224",
+    "name": "Oceanside Offshore, CA (045)",
+    "lat": 33.178,
+    "lon": -117.472
+  },
+  {
+    "id": "46225",
+    "name": "Torrey Pines Outer, CA (100)",
+    "lat": 32.933,
+    "lon": -117.391
+  },
+  {
+    "id": "46229",
+    "name": "UMPQUA OFFSHORE, OR (139)",
+    "lat": 43.772,
+    "lon": -124.549
+  },
+  {
+    "id": "46232",
+    "name": "Point Loma South, CA  (191)",
+    "lat": 32.517,
+    "lon": -117.425
+  },
+  {
+    "id": "46235",
+    "name": "Imperial Beach Nearshore, CA (155)",
+    "lat": 32.57,
+    "lon": -117.169
+  },
+  {
+    "id": "46237",
+    "name": "San Francisco Bar, CA  (142)",
+    "lat": 37.788,
+    "lon": -122.634
+  },
+  {
+    "id": "46239",
+    "name": "Point Sur, CA (157)",
+    "lat": 36.335,
+    "lon": -122.104
+  },
+  {
+    "id": "46240",
+    "name": "Cabrillo Point, Monterey Bay, CA  (158)",
+    "lat": 36.626,
+    "lon": -121.907
+  },
+  {
+    "id": "46243",
+    "name": "Clatsop Spit, OR (162)",
+    "lat": 46.214,
+    "lon": -124.126
+  },
+  {
+    "id": "46244",
+    "name": "Humboldt Bay, North Spit, CA (168)",
+    "lat": 40.896,
+    "lon": -124.357
+  },
+  {
+    "id": "46248",
+    "name": "Astoria Canyon, OR  (179)",
+    "lat": 46.133,
+    "lon": -124.64
+  },
+  {
+    "id": "46251",
+    "name": "Santa Cruz Basin, CA (203)",
+    "lat": 33.769,
+    "lon": -119.565
+  },
+  {
+    "id": "46253",
+    "name": "San Pedro South, CA (213)",
+    "lat": 33.576,
+    "lon": -118.181
+  },
+  {
+    "id": "46254",
+    "name": "SCRIPPS Nearshore, CA (201)",
+    "lat": 32.868,
+    "lon": -117.267
+  },
+  {
+    "id": "46256",
+    "name": "Long Beach Channel, CA (215)",
+    "lat": 33.7,
+    "lon": -118.201
+  },
+  {
+    "id": "46258",
+    "name": "Mission Bay West, CA (220)",
+    "lat": 32.749,
+    "lon": -117.502
+  },
+  {
+    "id": "46259",
+    "name": "Santa Lucia Escarpment, CA (222)",
+    "lat": 34.767,
+    "lon": -121.498
+  },
+  {
+    "id": "46266",
+    "name": "Del Mar Nearshore, CA (153)",
+    "lat": 32.957,
+    "lon": -117.279
+  },
+  {
+    "id": "46267",
+    "name": "Angeles Point, WA (248)",
+    "lat": 48.173,
+    "lon": -123.607
+  },
+  {
+    "id": "46268",
+    "name": "Topanga Nearshore, CA (103)",
+    "lat": 34.022,
+    "lon": -118.578
+  },
+  {
+    "id": "46273",
+    "name": "Torrey Pines Inner, CA (101)",
+    "lat": 32.93,
+    "lon": -117.274
+  },
+  {
+    "id": "46274",
+    "name": "Leucadia Nearshore, CA (262)",
+    "lat": 33.062,
+    "lon": -117.314
+  },
+  {
+    "id": "46275",
+    "name": "Red Beach Nearshore, CA (264)",
+    "lat": 33.29,
+    "lon": -117.5
+  },
+  {
+    "id": "46277",
+    "name": "Green Beach Offshore, CA (271)",
+    "lat": 33.336,
+    "lon": -117.659
+  },
+  {
+    "id": "46278",
+    "name": "Tillamook Bay South Jetty, OR (270)",
+    "lat": 45.561,
+    "lon": -123.991
+  },
+  {
+    "id": "46279",
+    "name": "Pajaro Beach South, CA (267)",
+    "lat": 36.838,
+    "lon": -121.82
+  },
+  {
+    "id": "51000",
+    "name": "NORTHERN HAWAII ONE - 245NM NE of Honolulu HI",
+    "lat": 23.528,
+    "lon": -153.792
+  },
+  {
+    "id": "51001",
+    "name": "NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",
+    "lat": 24.451,
+    "lon": -162.008
+  },
+  {
+    "id": "51003",
+    "name": "WESTERN  HAWAII - 205 NM SW of Honolulu, HI",
+    "lat": 19.196,
+    "lon": -160.639
+  },
+  {
+    "id": "51004",
+    "name": "SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",
+    "lat": 17.538,
+    "lon": -152.23
+  }
+]
